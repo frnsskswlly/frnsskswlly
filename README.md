@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frnsskswlly
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Software Testing, Data Science, and UI/UX
 - 🌱 I’m currently learning Python, Java, JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ✉️ fransiskuswillywongso@gmail.com | 🐦 https://www.twitter.com/frnsskswlly
 
 <!---
